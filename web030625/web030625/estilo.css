@@ -1,0 +1,69 @@
+#body{
+   margin: 0px;
+}
+#topo{
+    width: 100%;
+    height: 30px;
+    background-color: rgb(67, 141, 211);
+}
+.largurasite{
+    width: 980px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+#img1{
+    float: left;
+
+}
+#menu{
+    float: right;
+    width: auto;
+    height: auto;
+}
+#menu a{
+    color: rgb(162, 221, 255);
+    font-size: 16px;
+    text-decoration: none;
+    margin-left: 50px;
+}
+#menu a:hover{
+    text-decoration: underline;
+}
+#largurasite homedir{
+    float: right;
+
+}
+#homeesqueda{
+    float: left;
+
+}
+.conteudo{
+    width: 100%;
+    height: auto;
+    float: left;
+    border-bottom: 1px solid #73b9ff;
+}
+.imgleft{
+    float: left;
+}
+.imgright{
+    float: right;
+}
+h1{
+    font-size: 30px;
+    color:blue;
+}
+p{
+    font-size: 18px;
+    color: #000;
+}
+input[type=texte]{
+    width: 280px;
+    background-color: #73b9ff;
+    border: solid 1px #429ffd;
+}
+textarea{
+    width: 400px;
+    height: 140px;
+    background-color: blanchedalmond;
+}
